@@ -1,0 +1,26 @@
+{
+  "name": "amirhoseinjsdevelopr/phpauthdata",
+  "description": "Authentication System Managemnt",
+  "homepage": "http://adminlte.io/",
+  "keywords": [
+    "css",
+    "js",
+    "less",
+    "responsive",
+    "back-end",
+    "template",
+    "theme",
+    "web",
+    "admin"
+  ],
+  "authors": [
+    {
+      "name": "Abdullah Almsaeed",
+      "email": "support@adminlte.io"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/almasaeed2010/AdminLTE/issues"
+  }
+}
